@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.Header{
+    box-sizing: border-box;
+    width:100%;
+   
+    position: absolute;
+    top: 55.9px;
+    background: url(../../assets/header/plates-header.jpg);
+    background-size: cover;
+    background-position:center;
+}
+
+ .Plate {
+   padding: 30px;
+   margin:0 auto;
+    width: 47%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+} 
