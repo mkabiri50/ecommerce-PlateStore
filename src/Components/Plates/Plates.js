@@ -5,7 +5,7 @@ import Plate from './Plate/Plate';
 
 class Plates extends Component{
     render(){
-     console.log(data,">>plates");
+     
      
       data.map((item, i) => {
         item.id = i + 1;
